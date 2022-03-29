@@ -3,7 +3,7 @@
 
 We got a dataset with 541909 entries that contain information about orders made in the store: order number and date, identifier and name of the product, purchased quantity, price per unit, customer id. 
 
-The **goal** of the research is to analyze the popularity and profitability of products, factors affecting(impacting) demand to find ways to increase sales.
+The **goal** of the research is to analyze the popularity and profitability of products, factors affecting demand to find ways to increase sales.
 * Data was preprocessed and split into two datasets to analyze orders and cancellations separately.
 *  Products were categorized by price from very cheap to very expensive and by keywords in 11 categories. 
 *  Were found that there are ~35% casual customers and much more loyal that made 2 and more orders.
